@@ -24,12 +24,12 @@
 北斗星资源,https://api.bdxzyapi.com/api.php/provide/vod/at/xml,解析
 M3U8TV,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml,解析
 安逸影院,http://dy.51isu.com:11801/api.php/provide/vod/at/xml,不解析
-爱看,http://v.aik.la/api.php/provide/vod/at/xml,空
-电影,https://www.dianyingn.com/api.php/provide/vod/at/xml,空
-穿梭,http://ok.888hyk.com/api.php/provide/vod/at/xml,空
-极品,https://www.jpysvip.net/api.php/provide/vod/at/xml,空
-阿里,https://bljiex.com/api.php/provide/vod/at/xml,空s
-北斗星,https://m3u8.bdxzyapi.com/api.php/provide/vod/at/xml,空
+爱看,http://v.aik.la/api.php/provide/vod/at/xml,不解析
+电影,https://www.dianyingn.com/api.php/provide/vod/at/xml,不解析
+穿梭,http://ok.888hyk.com/api.php/provide/vod/at/xml,不解析
+极品,https://www.jpysvip.net/api.php/provide/vod/at/xml,不解析
+阿里,https://bljiex.com/api.php/provide/vod/at/xml,不解析
+北斗星,https://m3u8.bdxzyapi.com/api.php/provide/vod/at/xml,不解析
 结束
 
 解析：
